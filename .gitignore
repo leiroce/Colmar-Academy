@@ -1,0 +1,5 @@
+capstone_colmar_assets/
+.DS_Store
+node_modules/
+*.log
+videos/
